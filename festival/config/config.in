@@ -62,7 +62,7 @@ ALSO_INCLUDE += hts_engine
 
 ## Old diphone code that will be delete, left in only for some
 ## compatibility
-# ALSO_INCLUDE += diphone
+ALSO_INCLUDE += diphone
 
 ## Other (non-Edinburgh) modules may also be specified here (e.g. OGI code),
 
